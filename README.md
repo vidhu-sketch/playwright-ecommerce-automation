@@ -1,3 +1,5 @@
+![Playwright Tests](https://github.com/vidhu-sketch/playwright-ecommerce-automation/actions/workflows/tests.yml/badge.svg)
+
 # Playwright E-Commerce Automation
 
 A Python-based UI automation testing framework built using Playwright and Pytest.
